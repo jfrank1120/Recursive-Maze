@@ -6,7 +6,7 @@ the "Maze" is entered, the program uses recursion to guide itself through the ma
 them out as it goes along until all possible paths have been found.
 
 
-#Future Improvements
+# Future Improvements
 - Graphical User Interface
 - Ability to create another Maze
 - Show user shortest/longest route to exit
